@@ -1,0 +1,6 @@
+include,name,year,group,rob,a,b,c,d,mean1,sd1,n1,mean0,sd0,n0,effect,se
+true,Ahmed 2021 (SYNTHETIC),2021,Adults,Some concerns,18,82,31,69,,,,,,,,
+true,Kim 2022 (SYNTHETIC),2022,Adults,Some concerns,24,96,40,80,,,,,,,,
+true,Santoso 2023 (SYNTHETIC),2023,Older adults,Some concerns,13,67,28,52,,,,,,,,
+true,Gomez 2024 (SYNTHETIC),2024,Older adults,Some concerns,21,89,38,72,,,,,,,,
+true,Chen 2025 (SYNTHETIC),2025,Adults,Some concerns,29,111,45,95,,,,,,,,

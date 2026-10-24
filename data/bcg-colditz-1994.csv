@@ -1,0 +1,14 @@
+include,verified,name,year,group,rob,sourcePaper,sourcePage,sourceExcerpt,mod,a,b,c,d
+true,false,Aronson,1948,Latitude ≥ 30°,Some concerns,"Colditz et al. JAMA 1994;271:698–702 (metafor::dat.bcg)",,absolute latitude,44,4,119,11,128
+true,false,Ferguson & Simes,1949,Latitude ≥ 30°,Some concerns,"Colditz et al. JAMA 1994;271:698–702 (metafor::dat.bcg)",,absolute latitude,55,6,300,29,274
+true,false,Rosenthal et al,1960,Latitude ≥ 30°,Some concerns,"Colditz et al. JAMA 1994;271:698–702 (metafor::dat.bcg)",,absolute latitude,42,3,228,11,209
+true,false,Hart & Sutherland,1977,Latitude ≥ 30°,Some concerns,"Colditz et al. JAMA 1994;271:698–702 (metafor::dat.bcg)",,absolute latitude,52,62,13536,248,12619
+true,false,Frimodt-Moller et al,1973,Latitude < 30°,Some concerns,"Colditz et al. JAMA 1994;271:698–702 (metafor::dat.bcg)",,absolute latitude,13,33,5036,47,5761
+true,false,Stein & Aronson,1953,Latitude ≥ 30°,Some concerns,"Colditz et al. JAMA 1994;271:698–702 (metafor::dat.bcg)",,absolute latitude,44,180,1361,372,1079
+true,false,Vandiviere et al,1973,Latitude < 30°,Some concerns,"Colditz et al. JAMA 1994;271:698–702 (metafor::dat.bcg)",,absolute latitude,19,8,2537,10,619
+true,false,TPT Madras,1980,Latitude < 30°,Some concerns,"Colditz et al. JAMA 1994;271:698–702 (metafor::dat.bcg)",,absolute latitude,13,505,87886,499,87892
+true,false,Coetzee & Berjak,1968,Latitude < 30°,Some concerns,"Colditz et al. JAMA 1994;271:698–702 (metafor::dat.bcg)",,absolute latitude,27,29,7470,45,7232
+true,false,Rosenthal et al,1961,Latitude ≥ 30°,Some concerns,"Colditz et al. JAMA 1994;271:698–702 (metafor::dat.bcg)",,absolute latitude,42,17,1699,65,1600
+true,false,Comstock et al,1974,Latitude < 30°,Some concerns,"Colditz et al. JAMA 1994;271:698–702 (metafor::dat.bcg)",,absolute latitude,18,186,50448,141,27197
+true,false,Comstock & Webster,1969,Latitude ≥ 30°,Some concerns,"Colditz et al. JAMA 1994;271:698–702 (metafor::dat.bcg)",,absolute latitude,33,5,2493,3,2338
+true,false,Comstock et al,1976,Latitude ≥ 30°,Some concerns,"Colditz et al. JAMA 1994;271:698–702 (metafor::dat.bcg)",,absolute latitude,33,27,16886,29,17825
